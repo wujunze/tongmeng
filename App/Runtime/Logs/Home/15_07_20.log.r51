@@ -1,0 +1,1258 @@
+[ 2015-07-20T00:17:36+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-20T00:17:46+08:00 ] 127.0.0.1 /tongmeng/index.php/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-20T00:17:54+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:17:58+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-20T00:18:13+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:18:17+08:00 ] 127.0.0.1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:18:18+08:00 ] 127.0.0.1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+
+[ 2015-07-20T00:18:23+08:00 ] 127.0.0.1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:19:23+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:19:24+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:19:26+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/cart?number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T00:19:28+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/cart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T00:20:42+08:00 ] 127.0.0.1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:01+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:01+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:04+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-20T00:21:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025001s ]
+
+[ 2015-07-20T00:21:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T00:21:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T00:21:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T00:21:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-20T00:21:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T00:21:09+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:09+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T00:21:09+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/flow.php?step=add_to_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T00:38:13+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T02:37:05+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T02:37:13+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T02:37:19+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/cart?number=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2015-07-20T02:37:20+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/cart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T02:37:26+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T02:37:28+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T02:39:49+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:22:43+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T03:23:08+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:23:18+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:23:59+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T03:24:14+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:24:15+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-20T03:24:15+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-20T03:24:16+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:24:17+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:24:17+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:24:17+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T03:24:18+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:32:55+08:00 ] 127.0.0.1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T03:32:56+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:33:12+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:36:56+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:37:17+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:37:18+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:38:56+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:39:12+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:39:23+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:40:04+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:40:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T03:41:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-07-20T03:41:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:42:36+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:42:45+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:42:46+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:43:17+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:43:56+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:44:17+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:44:23+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:44:35+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-20T03:47:24+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:47:44+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:48:32+08:00 ] 127.0.0.1 /tongmeng/index.php/email
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:52:22+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-20T03:52:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:52:34+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:54:31+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:54:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:54:42+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:59:15+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:59:20+08:00 ] 127.0.0.1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T03:59:21+08:00 ] 127.0.0.1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:05:28+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:05:35+08:00 ] 127.0.0.1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-20T04:05:38+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./App/Home/View/Help/index.html
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/m_slider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/m_flex.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:12+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:13+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:13+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:13+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036002s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:13+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:13+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:06:13+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:07:10+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T04:07:10+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:07:10+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:07:10+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:07:10+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023001s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:07:10+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:07:10+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.078004s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:05+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:08:05+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.008001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:05+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:05+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019001s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:05+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:19+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:08:19+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:19+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:19+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:19+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:08:19+08:00 ] 127.0.0.1 /tongmeng/index.php/%E7%8E%A9%E5%85%B7%E8%B5%84%E8%AE%AF_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:玩具资讯_开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:09:01+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:09:02+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:09:11+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:09:11+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:09:46+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:09:46+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:10:55+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:10:55+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:11:11+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:11:11+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:11:31+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:11:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:12:18+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:12:18+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:13:07+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:13:07+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:14:22+08:00 ] 127.0.0.1 /tongmeng/index.php/toppic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Toppic
+
+[ 2015-07-20T04:14:46+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./App/Home/View/TopPic/index.html
+
+[ 2015-07-20T04:15:05+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_flex.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/topic_shujia.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_slider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.016001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:15:06+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_slider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_flex.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:31+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/topic_shujia.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_slider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/topic_shujia.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_flex.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.025002s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026002s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:54+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:55+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:55+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:16:55+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:03+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:17:03+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:03+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:03+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_slider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:03+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:03+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/m_flex.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/topic_shujia.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022001s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/%E6%9A%91%E4%BB%B7%E6%9D%A5%E4%BA%86_files/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:暑价来了_files
+
+[ 2015-07-20T04:17:31+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:18:56+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:20:50+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:20:50+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T04:21:51+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T04:21:51+08:00 ] 127.0.0.1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-20T07:46:17+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T07:46:25+08:00 ] 127.0.0.1 /tongmeng/index.php/install
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T08:18:54+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T08:18:57+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T08:20:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T08:20:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T08:45:39+08:00 ] 127.0.0.1 /tongmeng/index.php/help
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T08:46:02+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-20T08:48:02+08:00 ] 127.0.0.1 /tongmeng/index.php/TopPic
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

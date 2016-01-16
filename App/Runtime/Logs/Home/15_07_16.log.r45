@@ -1,0 +1,551 @@
+[ 2015-07-16T00:00:01+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+
+[ 2015-07-16T00:00:27+08:00 ] ::1 /tongmeng/index.php/lists/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 非法操作:id
+
+[ 2015-07-16T00:00:31+08:00 ] ::1 /tongmeng/index.php/lists/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 非法操作:id
+
+[ 2015-07-16T00:01:00+08:00 ] ::1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2015-07-16T00:01:11+08:00 ] ::1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+
+[ 2015-07-16T00:01:31+08:00 ] ::1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2015-07-16T00:01:32+08:00 ] ::1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2015-07-16T00:01:40+08:00 ] ::1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+
+[ 2015-07-16T00:01:41+08:00 ] ::1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2015-07-16T00:01:57+08:00 ] ::1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2015-07-16T00:01:58+08:00 ] ::1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+
+[ 2015-07-16T00:02:05+08:00 ] ::1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-07-16T00:02:06+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2015-07-16T00:02:33+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2015-07-16T00:02:56+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2015-07-16T00:03:24+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2015-07-16T00:03:58+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+
+[ 2015-07-16T00:03:59+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-07-16T00:04:57+08:00 ] ::1 /tongmeng/index.php/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2015-07-16T00:04:57+08:00 ] ::1 /tongmeng/index.php/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载控制器:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-16T08:37:17+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+
+[ 2015-07-16T08:39:49+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-07-16T08:39:58+08:00 ] ::1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2015-07-16T08:40:07+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2015-07-16T08:40:40+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-07-16T08:40:51+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2015-07-16T08:49:13+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2015-07-16T08:57:27+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2015-07-16T08:57:28+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2015-07-16T08:57:28+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+
+[ 2015-07-16T08:57:28+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2015-07-16T08:57:42+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2015-07-16T08:57:42+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2015-07-16T08:57:42+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2015-07-16T08:57:43+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2015-07-16T08:57:51+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2015-07-16T08:57:52+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2015-07-16T08:57:52+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2015-07-16T08:59:32+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2015-07-16T09:03:41+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2015-07-16T09:04:33+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2015-07-16T09:06:42+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-07-16T09:07:36+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2015-07-16T09:08:24+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2015-07-16T09:10:05+08:00 ] ::1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-07-16T09:11:42+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2015-07-16T09:12:11+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2015-07-16T09:12:21+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2015-07-16T09:13:08+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2015-07-16T09:16:17+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2015-07-16T09:16:54+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2015-07-16T09:17:15+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2015-07-16T09:17:43+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2015-07-16T09:18:19+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-07-16T09:18:43+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-07-16T09:24:36+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2015-07-16T09:24:47+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2015-07-16T09:25:00+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-07-16T09:49:47+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2015-07-16T09:50:12+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2015-07-16T10:09:59+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-07-16T10:11:15+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2015-07-16T10:11:41+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003085s ]
+
+[ 2015-07-16T10:15:58+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001215s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003924s ]
+
+[ 2015-07-16T10:17:15+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2015-07-16T10:23:25+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-07-16T10:23:57+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2015-07-16T10:24:25+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-07-16T10:24:58+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2015-07-16T10:25:34+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+
+[ 2015-07-16T10:25:50+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2015-07-16T10:27:08+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2015-07-16T10:27:21+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2015-07-16T10:27:39+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-07-16T10:27:41+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2015-07-16T10:27:41+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2015-07-16T10:29:34+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2015-07-16T10:30:00+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2015-07-16T10:30:34+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2015-07-16T10:30:52+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2015-07-16T10:31:00+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2015-07-16T10:32:53+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2015-07-16T10:32:54+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2015-07-16T10:32:59+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001377s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007312s ]
+
+[ 2015-07-16T10:53:37+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2015-07-16T11:06:15+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: XML标签语法错误 : name='sale' name='num'
+
+[ 2015-07-16T11:06:39+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2015-07-16T11:08:09+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2015-07-16T11:08:45+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2015-07-16T11:09:53+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2015-07-16T11:10:20+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2015-07-16T11:10:37+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2015-07-16T11:11:30+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2015-07-16T11:12:45+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2015-07-16T11:15:11+08:00 ] ::1 /tongmeng/index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-07-16T14:03:06+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2015-07-16T14:08:20+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2015-07-16T14:21:28+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2015-07-16T15:01:57+08:00 ] ::1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+
+[ 2015-07-16T15:02:05+08:00 ] ::1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-07-16T15:02:06+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2015-07-16T15:02:10+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2015-07-16T15:02:11+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2015-07-16T15:02:11+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2015-07-16T15:02:12+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2015-07-16T15:02:18+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2015-07-16T15:02:20+08:00 ] ::1 /tongmeng/index.php/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+ERR: 无法加载控制器:User
+
+[ 2015-07-16T15:02:23+08:00 ] ::1 /tongmeng/index.php/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001470s ]
+ERR: 无法加载控制器:User
+
+[ 2015-07-16T15:03:57+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+

@@ -1,0 +1,15 @@
+[ 2016-01-16T15:22:43+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025766s ]
+
+[ 2016-01-16T15:45:29+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+
+[ 2016-01-16T15:45:32+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+

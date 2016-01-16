@@ -1,0 +1,128 @@
+<<<<<<< .mine
+[ 2015-07-21T09:27:10+08:00 ] 127.0.0.1 /tongmeng/admin.php/
+=======
+[ 2015-07-21T23:54:14+08:00 ] 127.0.0.1 /tongmeng/admin.php/Admin/login.html
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:27:10+08:00 ] 127.0.0.1 /tongmeng/admin.php/Admin/login.html
+=======
+[ 2015-07-21T23:54:32+08:00 ] 127.0.0.1 /tongmeng/admin.php/Admin/dologin
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:27:23+08:00 ] 127.0.0.1 /tongmeng/admin.php/Admin/dologin
+=======
+[ 2015-07-21T23:54:32+08:00 ] 127.0.0.1 /tongmeng/admin.php/Index/index.html
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:27:23+08:00 ] 127.0.0.1 /tongmeng/admin.php/Index/index.html
+=======
+[ 2015-07-21T23:54:32+08:00 ] 127.0.0.1 /tongmeng/admin.php/Index/welcome.html
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:27:23+08:00 ] 127.0.0.1 /tongmeng/admin.php/Index/welcome.html
+=======
+[ 2015-07-21T23:54:39+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/Index.html
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:28:29+08:00 ] 127.0.0.1 /tongmeng/admin.php/Order/index.html
+=======
+[ 2015-07-21T23:54:43+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/Index/p/2.html
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+<<<<<<< .mine
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 错误的查询条件:[ordernumber=>Array]
+=======
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+>>>>>>> .r56
+
+<<<<<<< .mine
+[ 2015-07-21T09:28:45+08:00 ] 127.0.0.1 /tongmeng/admin.php/Love/index.html
+=======
+[ 2015-07-21T23:54:45+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/Index/p/3.html
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:28:54+08:00 ] 127.0.0.1 /tongmeng/admin.php/Feedback/index.html
+=======
+[ 2015-07-21T23:54:55+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/del/id/16
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:28:56+08:00 ] 127.0.0.1 /tongmeng/admin.php/Love/index.html
+=======
+[ 2015-07-21T23:54:56+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/Index/p/3.html
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:49:19+08:00 ] 127.0.0.1 /tongmeng/admin.php
+=======
+[ 2015-07-21T23:55:00+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/del/id/15
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+[ 2015-07-21T09:49:20+08:00 ] 127.0.0.1 /tongmeng/admin.php/Admin/login.html
+=======
+[ 2015-07-21T23:55:01+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/Index/p/3.html
+>>>>>>> .r56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+<<<<<<< .mine
+=======
+[ 2015-07-21T23:55:02+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/del/id/14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-21T23:55:03+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/Index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-21T23:55:05+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/Index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-21T23:55:07+08:00 ] 127.0.0.1 /tongmeng/admin.php/Job/Index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+>>>>>>> .r56

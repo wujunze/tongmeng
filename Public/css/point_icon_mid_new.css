@@ -1,0 +1,16 @@
+@charset "utf-8";
+.mid {
+}
+.mid a {
+    height: 62px;
+    width: 50px;
+}
+.mid .offlines {
+    background-position: -5px -71px;
+}
+.mid .onlines {
+	background-position: -5px -5px;
+	cursor:pointer;
+}
+.online_icon_mid_new{display:block;background-image:url(../images/mid_icon_new.gif);background-repeat:no-repeat;overflow:hidden;cursor:pointer;border:none;}
+

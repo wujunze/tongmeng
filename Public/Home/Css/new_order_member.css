@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+.bought-table{color:#333}
+.bought-table .col-name th {border-bottom: 1px solid #C4D5E0;border-top: 1px solid #C4D5E0;color: #000000;height: 33px;line-height: 33px;text-align: center;background: url("images/T12WeoXbBnXXXXXXXX-84-292.png") repeat-x 0 0;}
+.bought-table .close-order td{}
+.bought-table .order-hd td {overflow: hidden;padding: 4px 5px;border: #E6E6E6 solid 1px; background:#F3F3F3}
+.bought-table .order-bd td {overflow: hidden;padding:0px;border: #E6E6E6 solid 1px; border-top:0px;vertical-align: middle;}
+.bought-table .order-bd .no-border-right{border-right:none}
+.bought-table .order-bd .no-border-left{border-left:none}
+
+
+.bought-table .baobei .pic {border: 1px solid #E9E9E9;margin-right: 10px; float:left;height: 50px;width: 50px;}
+.bought-table .baobei .pic img {height: 50px;width: 50px;}
+.bought-table .baobei .desc {overflow: hidden;width: 180px;word-wrap: break-word;}
+.bought-table .baobei .baobei-name {display: block;line-height: 18px;margin-top: -2px; max-height: 38px; overflow: hidden;}
+.bought-table .baobei .baobei-name:hover {color: #404040;cursor: text;text-decoration: none;}
+.bought-table .sep-row td {border: medium none;}
+.bought-table .baobei .goods_desc{clear:both; padding-left:5px; padding-top:5px; padding-bottom:5px; text-align:center; height:60px; border-bottom:#F3F3F3 solid 1px;}
+.bought-table .baobei .last{border:0px}
+.bought-table .baobei .price{}
+
+.remide-box {
+    background-color: #FFFFE0;
+    border: 1px solid #F9DFB2;
+    margin-bottom: 10px;
+    overflow: hidden;
+	line-height:30px;
+	height:30px;
+}
+.remide-box h3, .box_8 .remide-box ul, .box_8 .remide-box li {
+    display: inline;
+    float: left;
+}
+.remide-box h3 {line-height:30px;
+	height:30px;
+	padding-left:10px;
+	font-weight:bold
+}
+.remide-box ul{ border-bottom: 0px solid #EFEFEF;height: 1%;margin-bottom: 0px;padding: 0px 0;}
+.remide-box li {margin: 0 30px 0 10px; float:left;line-height:30px;}
+.remide-box .num {color: #CC3333; position:relative;}
+.remide-box a:hover .num {color: #FF6600;}
+.red{color:#F00}

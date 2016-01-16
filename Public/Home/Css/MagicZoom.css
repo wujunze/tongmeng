@@ -1,0 +1,59 @@
+﻿/* Copyright 2008 MagicToolBox.com. To use this code on your own site, visit http://magictoolbox.com */
+
+/* CSS class for zoomed area */
+.MagicZoomBigImageCont {
+ border: 1px solid #eee;margin-left:-8px;
+}
+
+/* Header look and feel CSS class */
+/* header is shown if "title" attribute is present in the <A> tag */
+.MagicZoomHeader {
+ font: 12px Tahoma, Verdana, Arial, sans-serif;
+ color: #fff;
+ text-align: center !important;
+ background-color: #999999;border:1px red solid;
+}
+
+
+/* CSS class for small looking glass square under mouse */
+.MagicZoomPup {
+/* z-index : 10;
+ visibility : hidden;
+ position : absolute;
+ cursor:crosshair;
+ width:150px!important;
+ height:150px!important;
+ width: 150px;
+ height: 150px;
+ _width: 150px;
+ _height: 150px;
+ border: 1px solid #aaa;
+ background: #ffffff;
+ opacity: 0.5;
+ -moz-opacity: 0.5;
+ -khtml-opacity: 0.5;
+ filter: alpha(Opacity=50);*/
+ border: 1px solid #F0A09B;
+ background: #ffffff;
+ cursor: crosshair;
+}
+
+/* CSS style for loading animation box */
+.MagicZoomLoading {
+ text-align: center;
+ background: #ffffff;
+ color: #444;
+ border: 1px solid #ccc;
+ opacity: 0.8;
+ padding: 3px 3px 3px 3px;
+ display: none; /* do not edit this line please */
+}
+
+/* CSS style for gif image in the loading animation box */
+.MagicZoomLoading img {
+ padding-top: 3px !important;
+}
+#show_pic a.MagicZoom{
+ cursor:crosshair;
+}
+

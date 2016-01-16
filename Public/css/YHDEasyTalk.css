@@ -1,0 +1,1056 @@
+.talk_dialog_501{position:fixed;bottom:33px;z-index:99999;_position:absolute;}
+.talk_dialog_501 .wrapper{margin: 0 auto;padding: 0;width: 0px;}
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
+.hidden {
+    display: none;
+}
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.pointer {
+    cursor: pointer;
+}
+a {
+    outline: medium none;
+}
+* html, * html body {
+    background-attachment: fixed;
+    background-image: url("about:blank");
+}
+.client_end {
+    height: 538px;
+    padding-top: 30px;
+    width: 538px;
+}
+.client_end .easytalk_dialog {
+    border: 1px solid #DCDCDC;
+    border-radius: 9px;
+    height: 536px;
+}
+.client_end .easytalk_dialog .dialog_wrapper {
+    border: 1px solid #A5A5A5;
+    border-radius: 8px;
+    height: 534px;
+}
+.client_end .easytalk_dialog .dialog_wrapper .content {
+    border-top: 1px solid #B5B4B4;
+    height: 494px;
+}
+.client_end .avatar {
+    background: url("../images/avatar_bg.png") repeat ;
+    height: 64px;
+    left: 25px;
+    position: absolute;
+    top: 0;
+    width: 64px;
+}
+.client_end .avatar img {
+    height: 50px;
+    margin: 7px;
+    width: 50px;
+}
+.client_end .send_method {
+    background: none repeat scroll 0 0 #FAFAFA;
+    border: 1px solid #D5D5D5;
+    border-radius: 5px;
+    display: none;
+    height: 48px;
+    position: absolute;
+    width: 168px;
+}
+.client_end .send_method li {
+    color: #666666;
+    cursor: pointer;
+    font: 12px/24px Simsun;
+    height: 24px;
+}
+.client_end .send_method li .option {
+    background: none repeat scroll 0 0 #FFC4C4;
+    float: left;
+    height: 16px;
+    padding-top: 8px;
+    width: 20px;
+}
+.client_end .send_method li .left_top_raduis {
+    border-top-left-radius: 4px;
+}
+.client_end .send_method li .left_bottom_raduis {
+    border-bottom-left-radius: 4px;
+}
+.client_end .send_method li .value {
+    margin-left: 28px;
+}
+.client_end .send_method li .active {
+    color: #EF3939;
+}
+.client_end .send_method li .option_icon {
+    height: 8px;
+    margin: 0 auto;
+    width: 11px;
+}
+.client_end .send_method li .no {
+    background: url("../images/sprite_pn8.png") repeat scroll -156px -7px;
+    height: 8px;
+    width: 11px;
+}
+.client_end .send_method li .yes {
+    background: url("../images/sprite_pn8.png") repeat scroll -174px -7px;
+    height: 8px;
+    width: 11px;
+}
+.client_end .easytalk_dialog .dialog_wrapper .head {
+    background: url("../images/title_bg.png") repeat-x;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    cursor: move;
+    height: 40px;
+}
+.client_end .easytalk_dialog .dialog_wrapper .head .dialog_business {
+    color: #FFFFFF;
+    display: inline;
+    float: left;
+    font: 14px/40px "Microsoft Yahei",Simsun;
+    margin-left: 100px;
+    overflow: hidden;
+    width: 400px;
+}
+.client_end .easytalk_dialog .dialog_wrapper .head .close_dialog {
+    background: url("../images/sprite_pn8.png") repeat ;
+    display: inline;
+    float: right;
+    height: 40px;
+    margin-right: 10px;
+    width: 20px;
+}
+.client_end .easytalk_dialog .dialog_wrapper .head .close_dialog .close_cursor {
+    cursor: pointer;
+    height: 20px;
+    margin-top: 10px;
+}
+.client_end .content .chat_list {
+    float: left;
+    font-size: 12px;
+    height: 493px;
+    width: 340px;
+}
+.client_end .content .chat_list .chats {
+    background: none repeat scroll 0 0 #FAFAFA;
+    border-bottom: 1px solid #F3F3F3;
+    height: 330px;
+}
+.client_end .content .chat_list .chat {
+    height: 325px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 5px 5px 0;
+    position: relative;
+    width: 330px;
+}
+.client_end .content .chat_list .chat .start_talking {
+    height: 25px;
+    margin: 0 auto;
+    width: 312px;
+}
+.client_end .content .chat_list .chat .start_talking .border_left {
+    background: url("../images/sprite_pn8.png") repeat scroll -52px 0;
+    float: left;
+    height: 27px;
+    width: 11px;
+}
+.client_end .content .chat_list .chat .start_talking .content {
+    background: none repeat scroll 0 0 #EFEFEF;
+    border-bottom: 1px solid #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+    float: left;
+    height: 25px;
+    overflow: hidden;
+    width: 290px;
+}
+.client_end .content .chat_list .chat .start_talking .border_right {
+    background: url("../images/sprite_pn8.png") repeat scroll -64px 0;
+    float: left;
+    height: 27px;
+    width: 11px;
+}
+.client_end .content .chat_list .chat .start_talking .notice {
+    background: url("../images/sprite_pn8.png") repeat scroll -52px -28px;
+    display: inline;
+    float: left;
+    height: 8px;
+    margin-top: 9px;
+    width: 11px;
+}
+.client_end .content .chat_list .chat .start_talking .text {
+    color: #BDBDBD;
+    float: left;
+    line-height: 25px;
+    margin-left: 5px;
+    overflow: hidden;
+    width: 270px;
+}
+.client_end .content .chat_list .chat .dividing {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color -moz-use-text-color #DDDDDD;
+    border-image: none;
+    border-style: none none dashed;
+    border-width: medium medium 1px;
+    margin: 10px 0;
+}
+.client_end .content .chat_list .chat .more {
+    height: 21px;
+    margin: 0 auto 5px;
+    width: 302px;
+}
+.client_end .content .chat_list .chat .more .dash {
+    border-top: 1px dashed #DDDDDD;
+    float: left;
+    height: 1px;
+    margin-top: 10px;
+    width: 96px;
+}
+.client_end .content .chat_list .chat .more .view_more {
+    float: left;
+    height: 21px;
+    padding: 0 5px;
+    width: 100px;
+}
+.client_end .content .chat_list .chat .more .view_more .more_record_icon {
+    background: url("../images/viewmore.png") repeat ;
+    cursor: pointer;
+    height: 21px;
+    margin: 0 auto;
+    width: 78px;
+}
+.client_end .content .chat_list .chat .more .view_more .nomore_icon {
+    background: url("../images/hasnomore.png") repeat ;
+    height: 21px;
+    width: 98px;
+}
+.client_end .content .chat_list .chat .date {
+    height: 16px;
+    line-height: 16px;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 135px;
+}
+.client_end .content .chat_list .chat .solid {
+    border-top: 1px solid #D9D8D8;
+    float: left;
+    height: 1px;
+    margin-top: 5px;
+    width: 30px;
+}
+.client_end .content .chat_list .chat .date_item {
+    color: #BDBDBD;
+    float: left;
+    line-height: 12px;
+    margin: 0 4px;
+}
+.client_end .content .chat_list .chat .sys_msg p {
+    height: 16px;
+    line-height: 16px;
+    width: 100%;
+}
+.client_end .content .chat_list .chat .sys_msg .a_btn {
+    height: 24px;
+    line-height: 24px;
+    padding-left: 15px;
+}
+.client_end .content .chat_list .chat .sys_msg span {
+    color: #046EC5;
+    cursor: pointer;
+    float: left;
+    margin-right: 6px;
+}
+.client_end .content .chat_list .chat .sys_msg .forbidden {
+    color: #999999;
+    cursor: default;
+}
+.client_end .content .chat_list .chat .sys_msg .warning {
+    background: url("../images/sprite_pn8.png") repeat scroll -146px -69px;
+    float: left;
+    height: 13px;
+    width: 13px;
+}
+.client_end .content .chat_list .chat .sys_msg .time {
+    color: #999999;
+    font-size: 12px;
+    margin-left: 3px;
+}
+.client_end .content .chat_list .chat .sys_msg .sys_msg_txt {
+    color: #333333;
+    font-size: 12px;
+    margin-left: 15px;
+}
+.client_end .content .chat_list .chat li {
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+.client_end .content .chat_list .chat .detail {
+    float: left;
+    margin-bottom: 20px;
+    position: relative;
+}
+.client_end .content .chat_list .chat .detail .text {
+    color: #666666;
+    max-width: 200px;
+}
+.client_end .content .chat_list .chat .detail .text a {
+    color: #0A78C3;
+}
+.client_end .content .chat_list .chat .detail .text .client_arrow {
+    background: url("../images/sprite_pn8.png") repeat scroll -64px -28px;
+    height: 10px;
+    position: absolute;
+    right: 5px;
+    top: 7px;
+    width: 6px;
+}
+.client_end .content .chat_list .chat .detail .text .seller_arrow {
+    background: url("../images/sprite_pn8.png") repeat scroll -70px -27px;
+    height: 10px;
+    left: 5px;
+    position: absolute;
+    top: 7px;
+    width: 6px;
+}
+.client_end .content .chat_list .chat .detail .client_text {
+    margin-right: 5px;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+.client_end .content .chat_list .chat .detail .client_text .decoration {
+    border-top: 1px solid #FFFFFF;
+}
+.client_end .content .chat_list .chat .detail .seller_text {
+    margin-left: 5px;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+.client_end .content .chat_list .chat .detail p {
+    color: #666666;
+    line-height: 20px;
+}
+.client_end .content .chat_list .chat .detail .height {
+    line-height: 27px;
+}
+.client_end .content .chat_list .chat .detail .time {
+    color: #BDBDBD;
+    display: block;
+    margin-top: 5px;
+    position: absolute;
+    width: 120px;
+}
+.client_end .content .chat_list .chat .detail .client_time {
+    right: 0;
+}
+.client_end .content .chat_list .chat .detail .seller_time {
+    left: 10px;
+}
+.client_end .content .chat_list .chat .chat_avatar {
+    float: left;
+    height: 30px;
+    position: relative;
+    width: 30px;
+}
+.client_end .content .chat_list .chat .chat_avatar img {
+    height: 30px;
+    width: 30px;
+}
+.client_end .content .chat_list .chat .chat_avatar .cover {
+    background: url("../images/avatar_cover1.png") repeat ;
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+}
+.client_end .content .chat_list .chat .client .detail .text .text_content {
+    background: -moz-linear-gradient(center top , #FFFFFF, #F2F2F2) repeat ;
+    border: 1px solid #E7E7E7;
+    border-radius: 5px;
+    padding: 0 5px;
+}
+.client_end .content .chat_list .chat .seller .detail .text .text_content {
+    background: -moz-linear-gradient(center top , #FFFFFF, #F2F2F2) repeat ;
+    border: 1px solid #E7E7E7;
+    border-radius: 5px;
+    padding: 0 5px;
+}
+.client_end .content .chat_list .chat .detail .text .text_content p {
+    margin: 3px 0;
+}
+.client_end .content .chat_list .chat .bottom {
+    background: url("../images/bottom_bg_1.png") repeat-x ;
+    bottom: 0;
+    height: 4px;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+}
+.client_end .content .chat_list .send_message {
+    background: none repeat scroll 0 0 #FAFAFA;
+    height: 162px;
+}
+.client_end .content .chat_list .round_corner {
+    border-bottom-left-radius: 8px;
+}
+.client_end .content .chat_list .send_message .fucntion {
+    height: 26px;
+    padding-top: 8px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons {
+    float: left;
+    height: 18px;
+    margin-left: 10px;
+    position: relative;
+    width: 270px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .icon {
+    background: url("../images/sprite_pn8.png");
+    cursor: pointer;
+    float: left;
+    margin-right: 5px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .face {
+    background-position: -167px -22px;
+    height: 18px;
+    width: 18px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .font {
+    background-position: -134px -22px;
+    height: 16px;
+    margin-top: 1px;
+    width: 15px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .file {
+    background-position: -117px -22px;
+    height: 16px;
+    margin-top: 1px;
+    overflow: hidden;
+    position: relative;
+    width: 16px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .file input {
+    cursor: pointer;
+    font-size: 100px;
+    opacity: 0;
+    filter:alpha(opacity=0);
+    right: 0;
+    top: 0;
+    position:absolute;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .icon_sound{
+    background: url("../images/sound_front.png");
+    cursor: pointer;
+    float: left;
+    height: 18px;
+    width: 18px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .icon_sound:hover {
+    background-position: 0 -18px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .icon_sound_dis, .client_end .content .chat_list .send_message .fucntion .icons .icon_sound_dis:hover {
+    background-position: 0 -36px;
+}
+.client_end .content .chat_list .send_message .fucntion .icons .clock {
+    background-position: -100px -22px;
+    float: right;
+    height: 16px;
+    margin-right: 0;
+    margin-top: 1px;
+    width: 16px;
+}
+.client_end .content .chat_list .send_message .fucntion .record {
+    color: #666666;
+    display: block;
+    float: left;
+    line-height: 18px;
+    text-decoration: none;
+}
+.client_end .content .chat_list .send_message .fucntion a:hover {
+    text-decoration: underline;
+}
+.client_end .content .chat_list .send_message .input {
+    border: 1px solid #E6E6E6;
+    height: 82px;
+    margin: 0 auto;
+    width: 322px;
+}
+.client_end .content .chat_list .send_message .input textarea {
+    height: 80px;
+    overflow: auto;
+    resize: none;
+    width: 315px;
+}
+.client_end .content .chat_list .send_message .submit_wrapper {
+    color: #999999;
+    font: 12px/30px Simsun;
+    height: 30px;
+    margin: 5px 0 0 10px;
+}
+.client_end .content .chat_list .send_message .submit_wrapper .counter {
+    float: left;
+    width: 110px;
+}
+.client_end .content .chat_list .send_message .submit_wrapper .submit_btn {
+    height: 26px;
+    margin-left: 175px;
+    padding-top: 4px;
+    width: 144px;
+}
+.client_end .content .chat_list .send_message .submit_wrapper .submit_btn .send {
+    background: url(../images/btn1.png) no-repeat -61px 0;
+    cursor: pointer;
+    float: right;
+    height: 22px;
+    overflow: hidden;
+    width: 75px;
+}
+.client_end .content .chat_list .send_message .submit_wrapper .submit_btn .send .btn_send {
+    float: left;
+    height: 22px;
+    width: 55px;
+}
+.client_end .content .chat_list .send_message .submit_wrapper .submit_btn .send_hover {
+    background-position: -62px -23px;
+}
+.client_end .content .chat_list .send_message .submit_wrapper .submit_btn .send .arrow {
+    height: 22px;
+    margin-left: 55px;
+    width: 18px;
+}
+.client_end .content .chat_list .send_message .submit_wrapper .submit_btn .arrow_hover {
+    background-position: 0 -46px;
+}
+.client_end .content .current_item {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-bottom-right-radius: 8px;
+    border-left: 1px solid #DDDDDD;
+    float: right;
+    font-size: 12px;
+    height: 493px;
+    width: 193px;
+}
+.client_end .content .current_item .tab_btns {
+    height: 30px;
+}
+.client_end .content .current_item .tab_btns .tab {
+    background: none repeat scroll 0 0 #F2F2F2;
+    border-bottom: 1px solid #DDDDDD;
+    color: #999999;
+    cursor: pointer;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    width: 96px;
+}
+.client_end .content .current_item .tab_btns .split {
+    border-right: 1px solid #DDDDDD;
+    float: left;
+    height: 30px;
+}
+.client_end .content .current_item .tab_btns .active {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-bottom: medium none;
+    border-top: 3px solid #DDDDDD;
+    cursor: default;
+    line-height: 27px;
+}
+.client_end .content .current_item .detail {
+    height: 295px;
+}
+.client_end .content .current_item .a_order {
+    color: #046EC5;
+    display: block;
+    float: right;
+    font: 12px/30px Simsun;
+    text-decoration: none;
+}
+.client_end .content .current_item .amount {
+    color: #CB0000;
+}
+.client_end .content .current_item .details_wrapper {
+    height: 325px;
+}
+.client_end .content .current_item .im_order_detail {
+    margin: 0 auto;
+    width: 170px;
+}
+.client_end .content .current_item .im_order_detail .pager {
+    height: 30px;
+}
+.client_end .content .current_item .im_order_detail .pager .number {
+    float: left;
+    height: 12px;
+    margin-top: 9px;
+    width: 55px;
+}
+.client_end .content .current_item .im_order_detail .pager .arrow {
+    background: url("../images/sprite_pn8.png") repeat ;
+    float: left;
+    height: 8px;
+    margin-top: 1px;
+    width: 5px;
+}
+.client_end .content .current_item .im_order_detail .pager .arrow_left {
+    background-position: -12px -41px;
+    cursor: pointer;
+}
+.client_end .content .current_item .im_order_detail .pager .arrow_right {
+    background-position: -18px -41px;
+    cursor: pointer;
+}
+.client_end .content .current_item .im_order_detail .pager .pager_number {
+    float: left;
+    font: 12px/10px Arial;
+    text-align: center;
+    width: 45px;
+}
+.client_end .content .current_item .im_order_detail .pager .pager_number .unavailable {
+    color: #999999;
+}
+.client_end .content .current_item .im_order_detail .order {
+    float: left;
+    height: 245px;
+    width: 170px;
+}
+.client_end .content .current_item .im_order_detail .order .title {
+    background: none repeat scroll 0 0 #F5F5F5;
+    color: #666666;
+    font: 12px/21px Simsun;
+}
+.client_end .content .current_item .im_order_detail .order .title span {
+    display: block;
+    height: 21px;
+    margin-left: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 150px;
+}
+.client_end .content .current_item .im_order_detail .order .item_list {
+    height: 148px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.client_end .content .current_item .im_order_detail .order .item_list li {
+    border-bottom: 1px dashed #C5C4C4;
+    height: 53px;
+    padding: 10px 0;
+    vertical-align: bottom;
+}
+.client_end .content .current_item .im_order_detail .order .item_list .item_detail {
+    height: 40px;
+    overflow: hidden;
+}
+.client_end .content .current_item .im_order_detail .order .item_list .item_detail .item_img {
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+.client_end .content .current_item .im_order_detail .order .item_list .item_detail .item_img img {
+    border: 0 none;
+    height: 40px;
+    vertical-align: top;
+    width: 40px;
+}
+.client_end .content .current_item .im_order_detail .order .item_list .item_detail .desc {
+    float: right;
+    height: 40px;
+    width: 113px;
+}
+.client_end .content .current_item .im_order_detail .order .item_list .item_detail .desc .name {
+    color: #666666;
+    display: block;
+    line-height: 20px;
+    overflow: hidden;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 113px;
+}
+.client_end .content .current_item .im_order_detail .order .item_list .total {
+    height: 13px;
+    line-height: 13px;
+    text-align: right;
+}
+.client_end .content .current_item .im_order_detail .order .summary {
+    height: 70px;
+}
+.client_end .content .current_item .im_order_detail .order .summary .item {
+    height: 23px;
+    line-height: 23px;
+}
+.client_end .content .current_item .im_order_detail .order .summary .item .warning {
+    background: url("../images/sprite_pn8.png") repeat scroll -24px -41px;
+    display: block;
+    float: left;
+    height: 11px;
+    margin-top: 5px;
+    width: 11px;
+}
+.client_end .content .current_item .detail .noInfo {
+    padding: 20px 0 0 60px;
+    width: 48px;
+}
+.client_end .content .current_item .detail .product_detail {
+    height: 295px;
+    margin: 0 auto;
+    width: 170px;
+}
+.client_end .content .current_item .detail .product_detail .product_img {
+    height: 100px;
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 92px;
+}
+.client_end .content .current_item .detail .product_detail .product_img .base {
+    border: 1px solid #F2F2F2;
+    display: block;
+    height: 90px;
+    width: 90px;
+}
+.client_end .content .current_item .detail .product_detail .product_img .base img {
+    border: medium none;
+    height: 90px;
+    width: 90px;
+}
+.client_end .content .current_item .detail .product_detail .product_desc {
+    height: 54px;
+    width: 160px;
+}
+.client_end .content .current_item .detail .product_detail .product_desc li {
+    height: 18px;
+    line-height: 18px;
+    width: 100%;
+}
+.client_end .content .current_item .detail .product_detail .product_desc .name a {
+    color: #666666;
+    text-decoration: none;
+}
+.client_end .content .current_item .detail .product_detail .product_desc .title {
+    color: #999999;
+}
+.client_end .content .current_item .detail .product_detail .btn_view_detail {
+    background: url("../images/sprite_pn8.png") repeat scroll 0 -61px;
+    cursor: pointer;
+    display: block;
+    height: 26px;
+    margin: 25px auto 0;
+    width: 83px;
+}
+.client_end .content .current_item .store {
+    height: 160px;
+    margin: 0 auto;
+    width: 170px;
+}
+.client_end .content .current_item .store .a_order {
+    margin-top: 15px;
+}
+.client_end .content .current_item .store .name {
+    border-bottom: 1px dashed #C5C4C4;
+    height: 23px;
+    line-height: 23px;
+    overflow: hidden;
+    width: 170px;
+}
+.client_end .content .current_item .store .store_info {
+    height: 100px;
+}
+.client_end .content .current_item .store .store_info p {
+    color: #999999;
+    line-height: 32px;
+}
+.client_end .content .current_item .store .store_info li {
+    color: #666666;
+    height: 23px;
+    line-height: 23px;
+}
+.client_end .content .current_item .store .store_info li .score {
+    display: inline;
+    float: left;
+    margin-right: 2px;
+    width: 80px;
+}
+.client_end .content .current_item .store .store_info li .icon {
+    background: url("../images/sprite_pn8.png") repeat ;
+    float: left;
+    height: 18px;
+    width: 41px;
+}
+.client_end .content .current_item .store .store_info li .percent {
+    display: inline;
+    float: left;
+    margin-left: 3px;
+    width: 40px;
+}
+.client_end .content .current_item .store .store_info li .up {
+    background-position: -36px -42px;
+}
+.client_end .content .current_item .store .store_info li .down {
+    background-position: -79px -42px;
+}
+.client_end .content .current_item .store .store_info li .fair {
+    background-position: -123px -42px;
+}
+.im_dialogue_list {
+    border: 1px solid #ECECEC;
+    bottom: 28px;
+    display: none;
+    font-size: 12px;
+    height: 298px;
+    position: fixed;
+    right: 19px;
+    width: 198px;
+    z-index: 99999;
+}
+.im_dialogue_list .im_list_wrapper {
+    border: 1px solid #C7C7C7;
+    height: 296px;
+    width: 196px;
+}
+.im_dialogue_list .im_list_wrapper .im_head {
+    background: url("../images/title_bg.png") repeat-x ;
+    border-bottom: 1px solid #B5B4B4;
+    height: 34px;
+}
+.im_dialogue_list .im_list_wrapper .im_head .im_text {
+    background: url("../images/title.jpg") repeat ;
+    display: inline;
+    float: left;
+    height: 34px;
+    margin-left: 10px;
+    width: 90px;
+}
+.im_dialogue_list .im_list_wrapper .im_head .im_close_list {
+    background: url("../images/sprite_pn8.png") repeat scroll -166px -42px;
+    display: inline;
+    float: right;
+    height: 34px;
+    margin-right: 10px;
+    width: 20px;
+}
+.im_dialogue_list .im_list_wrapper .im_head .im_close_list .im_close_cursor {
+    cursor: pointer;
+    height: 20px;
+    margin-top: 10px;
+}
+.im_dialogue_list .im_list_wrapper .im_body {
+    background: none repeat scroll 0 0 #FFFFFF;
+    height: 225px;
+    overflow: auto;
+    position: relative;
+}
+.im_dialogue_list .im_list_wrapper .im_body li {
+    border-bottom: 1px solid #E8E6E6;
+    cursor: pointer;
+    height: 37px;
+    padding-top: 7px;
+    vertical-align: middle;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_avatar {
+    border: 1px solid #C7C7C7;
+    display: inline;
+    float: left;
+    height: 30px;
+    margin-left: 3px;
+    overflow: hidden;
+    position: relative;
+    width: 30px;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_avatar .login {
+    background: url("../images/sprite_pn8.png") repeat ;
+    height: 7px;
+    left: 23px;
+    position: absolute;
+    top: 23px;
+    width: 7px;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_avatar .offline {
+    background-position: -86px -64px;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_avatar .online {
+    background-position: -97px -64px;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_avatar img {
+    height: 30px;
+    width: 30px;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_seller {
+    color: #BDBDBD;
+    display: inline;
+    float: left;
+    line-height: 37px;
+    padding-left: 5px;
+    width: 105px;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .txt_online {
+    color: #333333;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_messages {
+    float: left;
+    height: 13px;
+    margin: 10px 0 0;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_messages .im_number {
+    background: none repeat scroll 0 0 #F76666;
+    color: #FFFFFF;
+    float: left;
+    height: 13px;
+    line-height: 13px;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_messages .im_number_l {
+    background: url("../images/sprite_pn8.png") no-repeat scroll -86px -73px;
+    float: left;
+    height: 13px;
+    width: 6px;
+}
+.im_dialogue_list .im_list_wrapper .im_body li .im_messages .im_number_r {
+    background: url("../images/sprite_pn8.png") no-repeat scroll -97px -73px;
+    float: left;
+    height: 13px;
+    width: 6px;
+}
+.im_dialogue_list .im_list_wrapper .im_foot {
+    background: none repeat scroll 0 0 #EDEDED;
+    height: 36px;
+}
+.im_dialogue_list .im_list_wrapper .im_foot a {
+    color: #808080;
+    display: inline;
+    float: right;
+    margin: 11px 10px 0 0;
+    text-decoration: none;
+}
+.im_service {
+    background: url("../images/im_icon.png") repeat ;
+    bottom: 0;
+    cursor: pointer;
+    height: 30px;
+    position: fixed;
+    right: 20px;
+    width: 126px;
+    z-index: 99999;
+}
+.im_service .im_icon {
+    background: url("../images/icon_msg.png") repeat ;
+    display: inline;
+    float: left;
+    height: 22px;
+    margin: 4px 10px 0 5px;
+    width: 22px;
+}
+.im_service .txt {
+    float: left;
+    margin-top: 6px;
+}
+.send_message .panel {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #DDDDDD;
+    display: none;
+    left: 0;
+    position: absolute;
+    top: -210px;
+}
+.send_message .panel_font {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #DDDDDD;
+    left: -10px;
+    padding: 2px;
+    top: -34px;
+    width: 300px;
+}
+.font-btn {
+    cursor: pointer;
+    padding: 0 5px;
+}
+.font-btn-cur {
+    color: #FF0000;
+}
+.send_message .panel_font select {
+    height: 20px;
+    vertical-align: middle;
+}
+.panel_font input {
+    background: none repeat scroll 0 0 #F1F1F1;
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+    height: 20px;
+    margin: 0 0 0 3px;
+    overflow: hidden;
+    padding: 0 5px;
+    vertical-align: middle;
+}
+.send_message .panel_face {
+    background: none repeat scroll 0 0 #FFFFFF;
+    left: 16px;
+    padding: 10px;
+    top: -202px;
+    width: 255px;
+}
+.panel_face span {
+    cursor: pointer;
+    float: left;
+    height: 30px;
+    padding: 3px;
+    width: 30px;
+}
+.panel_face span:hover {
+    border: 1px solid #DDDDDD;
+    padding: 2px;
+}
+.panel_face img {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+.send_message .panel_color {
+    left: 117px;
+    padding: 5px;
+    top: -9px;
+    width: 140px;
+}
+.panel_color a {
+    border: 1px solid #DDDDDD;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 10px;
+    margin: 1px;
+    outline: medium none;
+    width: 10px;
+}
+.panel_color a:hover {
+    border-color: #FF0000;
+}
+.send_message .input {
+    background-color: #FFFFFF;
+    height: 138px;
+    overflow: hidden;
+    width: 433px;
+}
+.send_message .input textarea {
+    border: 0 none;
+    height: 135px;
+    resize: none;
+    width: 433px;
+}
+.im-editor {
+    color: #333333;
+    line-height: 1.5;
+}
+.im-editor img {
+    vertical-align: text-bottom;
+}

@@ -1,0 +1,18 @@
+@charset "utf-8";
+.big {
+}
+.big a {
+    height: 28px;
+    width: 83px;
+}
+.big .offlines {
+    background-position: -2px -26px;;
+}
+.big .onlines {	
+	background-position: -2px 1px;
+	cursor:pointer;
+	margin-top: -3px;
+}
+.big .icon_small_online{display:block;background-image:url(../images/small_icon.png);background-repeat:no-repeat;overflow:hidden;cursor:pointer;border:none;height: 20px;width: 21px;background-position:-4px -2px;}
+.big .icon_small_offline{display:block;background-image:url(../images/small_icon.png);background-repeat:no-repeat;overflow:hidden;cursor:pointer;border:none;height: 20px;width: 21px;background-position:-3px -23px;}
+.online_icon_big{display:block;background-image:url(../images/mid_icon.gif);background-repeat:no-repeat;overflow:hidden;cursor:pointer;border:none;}

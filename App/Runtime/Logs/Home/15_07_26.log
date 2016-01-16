@@ -1,0 +1,20 @@
+[ 2015-07-26T12:21:41+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-26T12:22:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/index/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-26T12:22:10+08:00 ] 127.0.0.1 /tongmeng/index.php/Goods/cart.html?num=1&gid=8&price=344&goodsname=%E9%85%B7%E8%B7%91A-03
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-26T12:22:11+08:00 ] 127.0.0.1 /tongmeng/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

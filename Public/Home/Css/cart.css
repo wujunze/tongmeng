@@ -1,0 +1,52 @@
+﻿    /*  IE6 固定样式 */
+      * html,* html body /* 修正IE6振动bug */
+      {          background-image:url(about:blank);    /*用浏览器空白页面作为背景*/
+          background-attachment:fixed; /* prevent screen flash in IE6 确保滚动条滚动时，元素不闪动*/
+      }
+ * html .fixed-middle /* IE6 底部固定 */
+  {        position:absolute;bottom:auto;top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight/2-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));    }
+      /*  IE8 火狐  谷歌等 固定样式  */
+    .fixed-middle        {position: fixed; left:50%; top: 50%;  margin-top: -180px;margin-left:-155px;    }
+  .shopbox {    width: 442px;    z-index: 9999;}
+.order_hander input{	background:url("../Img/buyBg_16.jpg") no-repeat;	width:41px;	height:23px;	border:none;	text-indent:-9899px;	display:block;	margin:0 auto;}
+.shopboxcon {    background-color: #FFFFFF;    border: 6px solid #ddd;    display: block;    float: left;    overflow: hidden;    padding-bottom: 10px;    width: 437px;}
+#shoploading, #collectboxloaging {    padding-top: 130px;    text-align: center;}
+.shopbox h2 {    font-weight: bold;    height: 12px;    overflow: hidden;    padding: 5px;}
+.shopbox h2 a {    display: inline;    float: right;    font-weight: normal;	font-size:12px;}
+a:link, a:visited {    text-decoration: none;}
+.shopbox h2 img {    display: block;    float: left;    margin: 2px 5px 0;}
+.spboxcontent {    line-height: 20px;    padding: 0 10px;    width: 417px;}
+.spboxleft {    display: inline;    float: left;    margin-left: 10px;}
+.spboxright {    display: inline;    float: left;    margin-left: 18px;}
+.shopboxdetail .spboxtitle {    font-size: 14px;    font-weight: bold;}
+.numstyle {    color: #A10000;    font-weight: bold;}
+.numstyle2 {    color: #A10000;    font-size: 14px;    font-weight: bold;}
+.blank5{height:5px;clear:both}
+.spbbtndiv {margin-top:8px;}
+.spbbtndiv .jxgwbtn {    color: #A10000;    display: inline;    float: left;}
+.spbbtndiv a{padding-right:10px;}
+.qujiesuan {    display: inline;    float: left;    margin-left: 30px;}
+.blank15 {    clear: both;    display: block;    font-size: 1px;    height: 15px;    overflow: hidden;}
+.gmlist {border-top: 1px dashed #CCCCCC;color: #666666;overflow: hidden;}
+.gmlist .ygmName{height:38px;overflow: hidden;width:72px;}
+.gmlist h6 {    height: 30px;    line-height: 30px;}
+.rightborder {    background: none repeat scroll 0 0 #B6B6B6;    display: inline;    float: right;    height: 306px;    margin-top: 4px;    width: 3px;}
+.blank0 {    clear: both;    display: block;    font-size: 1px;    line-height: 0;    visibility: hidden;}
+.bottomborder {    background: none repeat scroll 0 0 #B6B6B6;    height: 3px;    margin-left: 4px;    overflow: hidden;}
+.gmlist li {    display: inline;    float: left;    margin: 0 5px 0 6px;    width: 72px;}
+.ygmPic img {    border: 1px solid #B4B4B4;    display: block;    height: 70px;    width: 70px;}
+.ygmPrice {    color: #A10000;    margin-top: 5px;}
+.mycart_listbody .float-l{	float:left;}
+.order_list_imgs a{border: 1px solid #CCCCCC;display: inline;float: left;margin: 5px 0 0 5px;}
+.order_list_imgs img{height: 40px;width: 40px;}
+body .color-blue{color:#266CAD;}
+body .order_hander a{	display:block;	color:#266CAD;}
+.checkform{	border:1px solid #DFDFDF;	padding:20px;	margin-top:10px;}
+.checkform .flowBox{    background: url("../Img/mycart_09.jpg") repeat-x scroll left bottom transparent;    clear: both;	overflow:hidden;	border:none;	padding-bottom:10px;}
+.checkform td{	line-height:15px;}
+.checkform .flowBox h6{	    text-align: right;    width: auto;	background:none;	font-size: 14px;	font-weight: 600;	color:#333333;}
+.checkform .flowBox h6 a{float:left;color:#006699;font-weight:100;padding-left:10px;display:inline;}
+.checkform .flowBox table{    color: #707070;    padding-left: 90px;    position: relative;}
+.checkform .flowBox .flowgoodslist{	padding:0;	 background: url("../Img/mycart_09.jpg") repeat-x scroll left top transparent;}
+.checkform .flowBox .flowgoods_t th{	line-height:40px;}
+.checkform .flowBox .flowgoodslist td{	background: url("../Img/mycart_21.jpg") repeat-x scroll left bottom transparent;	line-height:30px;}

@@ -1,0 +1,19 @@
+<!-- <foreach name="type" item="val">
+	<foreach name="val" item="i">
+		{$i}<br />
+	</foreach>
+</foreach> -->
+<foreach name="type" item="val">
+<li style="border-bottom:none; border-right:none;">
+<h3 class="mcate-item-hd lipin">
+    <span><a style="float:left;" href="">{$val['name']}</a></span>
+</h3>
+
+    <p class="mcate-item-bd">
+    <foreach name="val['child']" item="a">
+    <a href="{:U('Viewgoods/index',array('id'=>$a['id']))}">{$a['name']}</a>
+   
+    </foreach>
+    </p>
+</li> 
+</foreach>          

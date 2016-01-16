@@ -1,0 +1,1030 @@
+[ 2015-07-21T09:02:48+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013390s ]
+
+[ 2015-07-21T09:03:28+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2015-07-21T09:03:29+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2015-07-21T09:03:30+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2015-07-21T09:03:30+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2015-07-21T09:03:30+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2015-07-21T09:05:36+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2015-07-21T09:08:32+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2015-07-21T09:09:42+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2015-07-21T09:09:45+08:00 ] ::1 /tongmeng/index.php/Goods/cart.html?num=1&gid=6&price=56&goodsname=%E5%91%B5%E5%91%B5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2015-07-21T09:09:45+08:00 ] ::1 /tongmeng/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2015-07-21T09:09:55+08:00 ] ::1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2015-07-21T09:09:56+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2015-07-21T09:09:58+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2015-07-21T09:09:58+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001729s ]
+
+[ 2015-07-21T09:09:59+08:00 ] ::1 /tongmeng/index.php/Goods/cart.html?num=1&gid=6&price=56&goodsname=%E5%91%B5%E5%91%B5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+
+[ 2015-07-21T09:09:59+08:00 ] ::1 /tongmeng/index.php/Goods/showcart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2015-07-21T09:10:00+08:00 ] ::1 /tongmeng/index.php/Goods/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T09:10:02+08:00 ] ::1 /tongmeng/index.php/Goods/cartdel/id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+
+[ 2015-07-21T09:10:03+08:00 ] ::1 /tongmeng/index.php/Goods/showcart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-07-21T09:10:03+08:00 ] ::1 /tongmeng/index.php/Goods/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T09:10:04+08:00 ] ::1 /tongmeng/index.php/Goods/showcart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2015-07-21T09:10:04+08:00 ] ::1 /tongmeng/index.php/Goods/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T09:10:06+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2015-07-21T09:17:43+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2015-07-21T09:20:51+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2015-07-21T09:20:59+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-07-21T09:21:00+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2015-07-21T09:21:06+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002319s ]
+
+[ 2015-07-21T09:22:52+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2015-07-21T09:23:12+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2015-07-21T09:23:15+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2015-07-21T09:23:26+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2015-07-21T09:24:04+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2015-07-21T09:24:17+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2015-07-21T09:25:35+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-07-21T09:25:46+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003453s ]
+
+[ 2015-07-21T09:26:14+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2015-07-21T09:27:35+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2015-07-21T09:28:27+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2015-07-21T09:28:30+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2015-07-21T09:32:29+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2015-07-21T09:34:02+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2015-07-21T09:34:31+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+
+[ 2015-07-21T09:34:33+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2015-07-21T09:34:52+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2015-07-21T09:34:54+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2015-07-21T09:35:37+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-07-21T09:41:45+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001424s ]
+
+[ 2015-07-21T09:42:54+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2015-07-21T09:47:50+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+
+[ 2015-07-21T09:48:23+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2015-07-21T09:48:26+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2015-07-21T10:38:04+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2015-07-21T10:43:17+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-07-21T10:43:17+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2015-07-21T11:26:37+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2015-07-21T11:26:40+08:00 ] ::1 /tongmeng/index.php/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2015-07-21T11:26:40+08:00 ] ::1 /tongmeng/index.php/User/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T11:26:46+08:00 ] ::1 /tongmeng/index.php/MyOrder/myorder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2015-07-21T11:26:46+08:00 ] ::1 /tongmeng/index.php/MyOrder/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T14:01:34+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2015-07-21T14:01:41+08:00 ] ::1 /tongmeng/?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+
+[ 2015-07-21T14:01:41+08:00 ] ::1 /tongmeng/?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+
+[ 2015-07-21T14:01:41+08:00 ] ::1 /tongmeng/?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2015-07-21T14:18:13+08:00 ] ::1 /tongmeng/?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2015-07-21T14:18:14+08:00 ] ::1 /tongmeng/?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2015-07-21T14:18:30+08:00 ] ::1 /tongmeng/?keywords=%E4%B8%93%E6%B3%A8%E7%8E%A9%E5%85%B7%E9%94%80%E5%94%AE&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2015-07-21T14:18:59+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2015-07-21T14:19:03+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+
+[ 2015-07-21T14:20:18+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2015-07-21T14:20:38+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2015-07-21T14:21:37+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2015-07-21T14:21:38+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2015-07-21T14:21:38+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+
+[ 2015-07-21T14:21:39+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2015-07-21T14:21:39+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2015-07-21T14:21:40+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2015-07-21T14:21:40+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2015-07-21T14:21:40+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+
+[ 2015-07-21T14:21:41+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2015-07-21T14:21:42+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2015-07-21T14:25:06+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2015-07-21T14:25:17+08:00 ] ::1 /tongmeng/index.php/Goods/cart.html?num=5&gid=4&price=888&goodsname=%E9%A3%9E%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-07-21T14:25:17+08:00 ] ::1 /tongmeng/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2015-07-21T14:25:27+08:00 ] ::1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2015-07-21T14:25:28+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-07-21T14:25:30+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2015-07-21T14:25:30+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2015-07-21T14:25:32+08:00 ] ::1 /tongmeng/index.php/Goods/cart.html?num=1&gid=6&price=56&goodsname=%E5%91%B5%E5%91%B5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2015-07-21T14:25:32+08:00 ] ::1 /tongmeng/index.php/Goods/showcart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2015-07-21T14:25:32+08:00 ] ::1 /tongmeng/index.php/Goods/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T14:26:04+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2015-07-21T14:26:06+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2015-07-21T14:28:10+08:00 ] ::1 /tongmeng/?keywords=&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+
+[ 2015-07-21T14:53:48+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2015-07-21T14:53:48+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+
+[ 2015-07-21T14:54:46+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2015-07-21T14:54:46+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2015-07-21T14:54:47+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2015-07-21T14:54:47+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2015-07-21T14:54:50+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2015-07-21T14:54:50+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2015-07-21T15:23:57+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+
+[ 2015-07-21T15:23:58+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2015-07-21T15:23:59+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2015-07-21T15:23:59+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+
+[ 2015-07-21T15:24:01+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2015-07-21T15:24:01+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2015-07-21T15:24:07+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2015-07-21T15:24:07+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2015-07-21T15:32:36+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2015-07-21T15:32:36+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-07-21T15:32:39+08:00 ] ::1 /tongmeng/index.php/Seach/index.html?keywords=%E4%B8%93%E6%B3%A8%E7%8E%A9%E5%85%B7%E9%94%80%E5%94%AE&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载控制器:Seach
+
+[ 2015-07-21T15:33:20+08:00 ] ::1 /tongmeng/index.php/Seach/index.html?keywords=%E4%B8%93%E6%B3%A8%E7%8E%A9%E5%85%B7%E9%94%80%E5%94%AE&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载控制器:Seach
+
+[ 2015-07-21T15:33:24+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2015-07-21T15:33:24+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2015-07-21T15:33:26+08:00 ] ::1 /tongmeng/index.php/Seach/index.html?keywords=x&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载控制器:Seach
+
+[ 2015-07-21T15:33:56+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2015-07-21T15:34:00+08:00 ] ::1 /tongmeng/index.php/Seach/index.html?keywords=x&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+ERR: 无法加载控制器:Seach
+
+[ 2015-07-21T15:34:55+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2015-07-21T15:35:01+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-07-21T15:35:04+08:00 ] ::1 /tongmeng/index.php/Seach/index.html?keywords=%E9%81%A5%E6%8E%A7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载控制器:Seach
+
+[ 2015-07-21T15:35:10+08:00 ] ::1 /tongmeng/index.php/Seach/index.html?keywords=%E9%81%A5%E6%8E%A7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 无法加载控制器:Seach
+
+[ 2015-07-21T15:37:09+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2015-07-21T15:37:12+08:00 ] ::1 /tongmeng/index.php/Seach/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载控制器:Seach
+
+[ 2015-07-21T15:37:25+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2015-07-21T15:37:28+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2015-07-21T15:38:12+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2015-07-21T15:38:12+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:38:19+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2015-07-21T15:39:30+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2015-07-21T15:39:33+08:00 ] ::1 /tongmeng/index.php/Search/index.html?keywords=%E4%B8%93%E6%B3%A8%E7%8E%A9%E5%85%B7%E9%94%80%E5%94%AE&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+
+[ 2015-07-21T15:39:33+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:39:35+08:00 ] ::1 /tongmeng/index.php/Search/index.html?keywords=%E4%B8%93%E6%B3%A8%E7%8E%A9%E5%85%B7%E9%94%80%E5%94%AE&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-07-21T15:39:36+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:40:07+08:00 ] ::1 /tongmeng/index.php/Search/index.html?keywords=%E4%B8%93%E6%B3%A8%E7%8E%A9%E5%85%B7%E9%94%80%E5%94%AE&searchbtn=%E6%90%9C%E7%B4%A2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2015-07-21T15:40:07+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:41:04+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+
+[ 2015-07-21T15:41:10+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2015-07-21T15:41:10+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002192s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:55:52+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-07-21T15:55:58+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+
+[ 2015-07-21T15:55:58+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:56:05+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2015-07-21T15:56:05+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001433s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:56:14+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2015-07-21T15:56:14+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:57:09+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+
+[ 2015-07-21T15:57:13+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2015-07-21T15:57:13+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T15:58:17+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2015-07-21T15:58:20+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2015-07-21T16:08:48+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2015-07-21T16:08:48+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2015-07-21T16:08:50+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2015-07-21T16:08:51+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2015-07-21T16:08:57+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2015-07-21T16:08:57+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2015-07-21T16:10:12+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002417s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005514s ]
+
+[ 2015-07-21T16:10:21+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2015-07-21T16:10:21+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T16:10:29+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2015-07-21T16:10:29+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T16:10:32+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2015-07-21T16:10:41+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2015-07-21T16:10:41+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002158s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T16:13:59+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2015-07-21T16:14:02+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2015-07-21T16:14:02+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T16:15:16+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2015-07-21T16:15:18+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2015-07-21T16:15:18+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2015-07-21T16:15:20+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2015-07-21T16:15:30+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2015-07-21T16:15:30+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T16:21:20+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2015-07-21T16:21:20+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T16:21:22+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2015-07-21T16:21:23+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T16:21:25+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+
+[ 2015-07-21T16:21:31+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2015-07-21T16:21:31+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2015-07-21T16:21:36+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+
+[ 2015-07-21T16:21:37+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2015-07-21T16:21:38+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2015-07-21T16:21:49+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2015-07-21T16:21:50+08:00 ] ::1 /tongmeng/index.php/Search/%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E-%E7%8E%A9%E5%85%B7%E5%B0%B1%E6%98%AF%E5%BC%80%E6%A3%AE%EF%BC%81%E6%96%B9%E4%BE%BF%E3%80%81%E5%BF%AB%E6%8D%B7%E3%80%81%E9%AB%98%E7%AB%AF%E3%80%81%E6%AD%A3%E5%93%81%EF%BC%81_files/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 非法操作:开森商城-玩具就是开森！方便、快捷、高端、正品！_files
+
+[ 2015-07-21T16:22:03+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2015-07-21T17:28:14+08:00 ] ::1 /tongmeng/index.php/Logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2015-07-21T17:28:17+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2015-07-21T21:10:38+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2015-07-21T21:10:49+08:00 ] ::1 /tongmeng/index.php/Viewgoods/index/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2015-07-21T21:10:59+08:00 ] ::1 /tongmeng/index.php/Search/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+
+[ 2015-07-21T21:11:03+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-07-21T21:11:14+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2015-07-21T21:11:17+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/gallery.php?id=1965
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+
+[ 2015-07-21T21:12:12+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2015-07-21T21:14:06+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-07-21T21:57:56+08:00 ] ::1 /tongmeng/index.php/Goods/index/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+

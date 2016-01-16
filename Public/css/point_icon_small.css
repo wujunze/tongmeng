@@ -1,0 +1,14 @@
+@charset "utf-8";
+.im_online_chat a {
+    height: 22px;
+    width: 23px;
+}
+.im_online_chat .offlines {
+    background-position: -3px -23px;
+}
+.im_online_chat .onlines {
+	cursor:pointer;
+	background-position: -4px -1px;
+}
+.online_icon_small_noshake{display:block;background-image:url(../images/small_icon.png);background-repeat:no-repeat;overflow:hidden;cursor:default;border:none;}
+.online_icon_small{display:block;background-image:url(../images/small_icon.gif);background-repeat:no-repeat;overflow:hidden;cursor:default;border:none;}

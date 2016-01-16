@@ -1,0 +1,46 @@
+[ 2015-07-09T15:00:17+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Undefined variable: keywords F:\Program Files\WAMP\wamp\www\tongmeng\App\Runtime\Cache\Home\00e52909bed743ea261af4b6823297ff.php 第 6 行.
+NOTIC: [8] Undefined variable: description F:\Program Files\WAMP\wamp\www\tongmeng\App\Runtime\Cache\Home\00e52909bed743ea261af4b6823297ff.php 第 7 行.
+NOTIC: [8] Undefined variable: title F:\Program Files\WAMP\wamp\www\tongmeng\App\Runtime\Cache\Home\00e52909bed743ea261af4b6823297ff.php 第 8 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091274s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019883s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003973s ]
+
+[ 2015-07-09T15:06:11+08:00 ] ::1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+NOTIC: [8] Undefined variable: keywords F:\Program Files\WAMP\wamp\www\tongmeng\App\Runtime\Cache\Home\00e52909bed743ea261af4b6823297ff.php 第 6 行.
+NOTIC: [8] Undefined variable: description F:\Program Files\WAMP\wamp\www\tongmeng\App\Runtime\Cache\Home\00e52909bed743ea261af4b6823297ff.php 第 7 行.
+NOTIC: [8] Undefined variable: title F:\Program Files\WAMP\wamp\www\tongmeng\App\Runtime\Cache\Home\00e52909bed743ea261af4b6823297ff.php 第 8 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007136s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001011s ]
+

@@ -1,0 +1,38 @@
+﻿.topic_banner{background:url(../Img/ks_shujia_01.jpg) no-repeat top center; width:100%; height:637px;}
+.topic_tuijian{background:url(../Img/ks_shujia_02.jpg) repeat-x; width:100%; height:2390px;}
+.topic_tuijian .tuijian_box{ width:960px;  margin:0 auto}
+.topic_bg{background:url(../Img/topic_bg.png) repeat-y top center; width:100%;}
+.box_liuyi{ width:960px; margin:0 auto;}
+.w1200 .box_liuyi{ width:1020px; margin:0 auto;}
+.nbox_title{background:url(../Img/liuyi_title.png) no-repeat top center; width:960px; height:50px; text-align:center; font-size:24px; padding-top:75px;}
+.nbox_title_ch{background:url(../Img/cihong_b_bg.png) no-repeat top center; width:620px; padding-left:370px;height:83px; text-align:left; font-size:38px; padding-top:38px; color:#FFF; margin-top:10px;}
+
+.goodbox_topic{background:url(../Img/bg_box_topic_960.png) no-repeat top center; width:294px; height:375px; float:left; margin:5px; padding:5px;text-align:center }
+.goodbox_topic .goodsimg{ width:285px; height:285px; }
+.w1200 .goodbox_topic{background:url(../Img/bg_box_topic.png) no-repeat top center; width:314px; height:375px; float:left; margin:5px; padding:5px;text-align:center }
+.w1200 .goodbox_topic .goodsimg{ width:285px; height:285px; }
+.goodbox_topic p{ height:30px; line-height:30px; color:#fe4f00; font-size:16px; overflow:hidden}
+.goodbox_topic p a{color:#fe4f00;}
+.goodbox_topic p.topic_price{ text-align:left; padding-left:10px; padding-top:20px;}
+.daprice{ font-size:38px; font-weight:bold}
+.marketprice{ padding-left:10px;text-decoration: line-through; }
+.goodbox_topic span a{ width:60px; height:40px; float:right; font-size:0;overflow:hidden;}
+
+
+/*左侧悬浮*/
+.left_nav{width:143px; height:404px; position:fixed; left:50%; margin-left:-650px; z-index:1000; display:none; background:url(../Img/topic.png) no-repeat}
+.left_nav a{display:block}
+
+
+/*慈弘*/
+.topic_cihong1{background:url(../Img/cihong_02.png) no-repeat top center; width:100%; height:411px;}
+.topic_cihong2{background:url(../Img/cihong_03.png) no-repeat top center; width:100%; height:207px;}
+.topic_cihong3{background:url(../Img/cihong_04.png) no-repeat top center; width:100%; height:231px;}
+.topic_cihong4{background:url(../Img/cihong_05.png) no-repeat top center; width:100%; height:252px;}
+.topic_cihong5{background:url(../Img/cihong_06.png) no-repeat top center; width:100%; height:329px;}
+.topic_cihong6{background:url(../Img/cihong_07.png) no-repeat top center; width:100%; height:448px;}
+.topic_cihong7{background:url(../Img/cihong_08.png) no-repeat top center; width:100%; height:488px;}
+.topic_cihong8{background:url(../Img/cihong_09.png) no-repeat top center; width:100%; height:247px;}
+.topic_cihong9{background:url(../Img/cihong_10.png) no-repeat top center; width:100%; height:468px;}
+.topic_cihong10{background:url(../Img/cihong_11.png) no-repeat top center; width:100%; height:534px;}
+.topic_ch_bg{background:url(../Img/bg_cihong.png) repeat-y top center; width:100%;}

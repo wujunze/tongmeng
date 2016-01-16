@@ -1,0 +1,10 @@
+[ 2015-08-03T09:19:58+08:00 ] ::1 /tongmeng/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+
+[ 2015-08-03T09:20:54+08:00 ] ::1 /tongmeng/index.php/Love/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+

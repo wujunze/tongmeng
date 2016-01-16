@@ -1,0 +1,157 @@
+/*  
+    *@Description: YHD 1号商城详情页
+    *@Author: xudan  
+    *@Update:   
+*/
+/*详情页布局*/
+.detailLeft{width:205px}
+.detailRight{width:765px}
+.sideMod .cur b,.itemChoose li .icon_btn, .itemChoose h3 .iconNoCollapse, .sideMod .sideModCon dl .pic sup,.itemChoose h3 .noCollapse,.itemChoose h3 .icon_btn,.inshopSearchBtn,.inshopSearchBtn span,.rightSearch .searchRight,.rightSearch .searchRight,.inshopDSR .certifyList .listOne,.inshopDSR .certifyList .listTwo,.inshopDSR .certifyList .listThree,.inshopDSR .inshopInf li .inshop_levele,.inshop_detail_tuangou .buybtn{background:url(../images/Spirit-detail.png) no-repeat;}
+/*更多*/
+.detailLeft .viewMore,.detailRight .viewMore{position:absolute;right:5px;top:7px;color:#666;}
+.detailLeft .viewMore:hover,.detailRight .viewMore:hover{color:#666;}
+/*btn*/
+.inshopSearchBtn{background-position:100% -202px;height:26px;line-height:26px;padding-right:15px;display:inline-block;margin-right:10px;}
+.inshopSearchBtn span{background-position:0 -202px;height:26px;line-height:28px;padding-left:15px;display:inline-block;cursor:pointer;color:#fff;font-weight:bold;}
+a.inshopSearchBtn:hover{color:#fff;}
+
+/*DSR*/
+.inshopDSR{width:203px;border:1px solid #dbdbdb;overflow:hidden;background-color:#fff;margin-bottom:10px;}
+.inshopDSR .inshopLogo{background-color:#f2f2f2;background-image:none;width:203px;height:30px;line-height:30px;text-indent:10px;display:inline-block;font-size:12px;}
+.inshopDSR .certifyList{overflow:hidden;}
+.inshopDSR .certifyList .listOne{background-position:0 -49px;width:65px;height:48px;display:inline-block;text-indent:-9999px;float:left;}
+.inshopDSR .certifyList .listTwo{background-position:-65px -49px;width:70px;height:48px;display:inline-block;text-indent:-9999px;float:left;}
+.inshopDSR .certifyList .listThree{background-position:-135px -49px;width:68px;height:48px;display:inline-block;text-indent:-9999px;float:left;}
+.inshopDSR .inshopInf{margin:5px;}
+.inshopDSR .inshopInf h2{font-size:12px;color:#333;padding:5px 0;line-height:20px;display:inline-block;text-indent:5px;}
+.inshopDSR .inshopInf li{height:20px;line-height:20px;display:block;text-indent:5px;}
+.inshopDSR .inshopInf li.inshopDes{}
+.inshopDSR .inshopInf li.inshopSer{}
+.inshopDSR .inshopInf li.inshopShip{}
+.inshopDSR .inshopInf li img{margin-top:3px;_margin-top:2px;}
+.inshopDSR .inshopDescription{border-top:1px solid #e4e4e4;border-bottom:1px solid #e4e4e4;margin:5px 0;padding:5px 0;display:inline-block;width:100%;}
+.inshopDSR .inshopDescription h3.inshopUp{font-size:12px;font-weight:normal;color:#0066cc;height:20px;line-height:20px;background:url(../images/inshopDSR.png) no-repeat -130px -116px;text-indent:5px;cursor:pointer;}
+.inshopDSR .inshopDescription h3.inshopDown{font-size:12px;font-weight:normal;color:#0066cc;height:20px;line-height:20px;background:url(../images/inshopDSR.png) no-repeat -130px -98px;text-indent:5px;cursor:pointer;}
+.inshopDSR .inshopDescription ul{display:none;}
+.inshopDSR .inshopDescription li{height:auto;line-height:20px;overflow:hidden;}
+.inshopDSR .inshopDescription li .inshopName{width:65px;float:left;text-indent:5px;}
+.inshopDSR .inshopDescription li .inshopInformation{float:left;width:113px;}
+.inshopDSR .inshopSearchBtn{margin:10px 10px 10px 54px;}
+
+.inshopLeftDes .inshopDescription ul{display:block;}
+.inshopFilter{position:fixed;top:200px;_position:absolute;left:10%;}
+
+/*搜索-左栏*/
+.search{padding:10px;}
+.search p{line-height:20px;margin:5px 0;overflow:hidden;_zoom:1;}
+.search p span.searchName{text-align:right;width:60px;display:inline-block;float:left;}
+.search p .searchText{width:120px;border-width:1px;border-style:solid;border-color:#c5c5c5 #c5c5c5 #e8e8e8 #c5c5c5;float:left;height:14px;line-height:14px;padding:2px 0;} 
+.search p .priceText{width:50px;_width:49px;border-width:1px;border-style:solid;border-color:#c5c5c5 #c5c5c5 #e8e8e8 #c5c5c5;float:left;height:14px;line-height:14px;padding:2px 0;}
+.search p label{vertical-align:middle;margin:0 3px;float:left;}
+.search p .inshopSearchBtn{margin-left:60px;}
+.search p .keyText{float:left;width:123px;}
+.search p .keyText a{margin:0 3px;cursor:pointer;}
+
+/*搜索-右栏*/
+.rightSearch{padding:10px;background-color:#f5f5f5;color:#333;}
+.rightSearch span{display:inline-block;}
+.rightSearch .searchRight{background-color:#fff;background-position:-26px -126px;border-width:1px;border-style:solid;border-color:#c5c5c5 #c5c5c5 #e8e8e8 #c5c5c5;width:330px;height:18px;line-height:18px;display:inline-block;cursor:pointer;margin-right:60px;}
+.rightSearch .searchRight input{width:310px;margin-left:20px;border:0;vertical-align:middle;height:14px;line-height:14px;padding:2px 0;}
+.rightSearch .priceArea .priceText{width:44px;border-width:1px;border-style:solid;border-color:#c5c5c5 #c5c5c5 #e8e8e8 #c5c5c5;height:14px;line-height:14px;padding:2px 0;margin-right:4px;}
+.rightSearch .priceArea .textSpan{vertical-align:middle;margin-right:4px;}
+.rightSearch .inshopSearchBtn{margin-left:55px;}
+.rightSearch .keyName{margin-left:48px;line-height:20px;}
+.rightSearch .keyName a{color:#999;margin-right:5px;}
+
+
+/*热销排行榜*/
+.sideMod{display:inline-block; width:203px;}
+.sideMod,.searchColMainItem{position:relative;border:1px solid #dbdbdb;_zoom:1;}
+.sideMod h2{padding-left:10px;border-bottom:1px solid #dbdbdb;height:28px;line-height:28px;font-size:12px;color:#333;}
+.sideMod .view{margin:0 44px;width:115px;}
+.sideMod .view a,.sideMod .view a img,.sideMod .view a em{display:block;}
+.sideMod .view a{line-height:21px;}
+.sideMod .view a.name span{color:#333;}
+.sideMod .view a.name span,.itemSearchResult ul li a.title span,.itemSearchResultT ul li a.title span{display:block;height:40px;line-height:21px;overflow:hidden;}
+.sideMod .view span.specialPrice,.sideMod .sideModCon dl span.specialPrice{padding-right:8px;color:#c00;font-family:Arial;font-weight:bold;}
+.sideMod .view span.normalPrice,.sideMod .sideModCon dl span.normalPrice{color:#999;font-family:Arial;text-decoration:line-through;}
+.sideMod .view img{width:115px;height:115px;}
+.sideMod .view li{margin:10px 0;}
+.sideMod .sideModCon{padding:0 10px; overflow:hidden;_zoom:1;}
+.sideMod .sideModCon dl{padding:10px 0;border-bottom:1px solid #F3F3F3;width:183px;overflow:hidden;_zoom:1;}
+.sideMod .sideModCon dl .pic{position:relative;float:left;width:58px;height:58px;border:1px solid #F0F0F0;}
+.sideMod .sideModCon dl .pic sup{position:absolute;left:0;top:0;padding-left:2px;width:18px;height:20px; background-position:0 -128px;font:bold 12px Tahoma;color:#fff;}
+.sideMod .sideModCon dl .pic sup.gray{background-position:0 -151px;}
+.sideMod .sideModCon dl .pic img.pic_size_60{display:block;border:1px solid #E7E7E7;padding:2px 1px 1px 2px;width:60px;height:60px;}
+.sideMod .sideModCon dl dt,.sideMod .sideModCon dl .price,.sideMod .sideModCon dl .saleAmount{float:right;width:112px;line-height:16px;}
+.sideMod .sideModCon dl dt{height:30px;line-height:15px;word-wrap:break-word;overflow:hidden;}
+.sideMod .rank{padding:0;}
+.sideMod .rankList{padding:0 10px;}
+.sideMod .rankUl{padding:12px 0 0 12px; border-bottom:1px solid #CC0000; margin:0 0 10px -10px;}
+.sideMod .rankUl li{position:relative; display:inline; float:left; height:20px; line-height:20px; padding:0 5px; margin-left:10px; cursor:pointer;}
+.sideMod .rankUl .cur{background-color:#CC0000; color:#fff;}
+.sideMod .cur b{position:absolute; width:8px; height:4px; top:21px; left:42%; background-position:-102px -18px;}
+.sideMod .sideModCon .last{border:none;}
+
+/*图文，文字广告*/
+.detailLeft .textWord,.detailRight .textWord{line-height:20px;margin:5px;}
+
+/*商品分类*/
+.itemChoose{overflow:hidden;width:203px;padding-bottom:10px;border-width:1px 1px 1px;border-style:solid;border-color:#dbdbdb;}
+.itemChoose h3{overflow:hidden;height:28px;line-height:28px;padding:10px 5px 0 5px;font-size:12px; overflow:hidden;}
+.itemChoose h3.no_bd_b{border-bottom:0 none;}
+.itemChoose h3 .icon_btn{float:left;width:20px;height:28px;outline:none;background-position:-28px -174px;}
+.itemChoose h3 .icon_btn.open{background-position:8px -174px;}
+.itemChoose h3 .noCollapse{background-position:-61px -170px;}
+.itemChoose h3 a:link,.itemChoose h3 a:visited{color:#333;}
+.itemChoose h3 a:hover,.itemChoose li a:hover,.sideMod .view em,.sideMod .searchRecord li a:hover{color:#c00;}
+.itemChoose h3 a:hover span,.itemChoose li a:hover span{color:#c00;}
+.itemChoose ul{display:none;width:168px;margin-left:20px;overflow:hidden;}
+.itemChoose ul ul{margin-left:18px;width:400px;}
+.itemChoose li{line-height:24px;white-space:nowrap;}
+.itemChoose li a.current:link,.itemChoose li a.current:visited,.itemChoose li a.current:hover{color:#c00;}
+.itemChoose li a.current span{color:#c00;}
+.itemChoose li .icon_btn{float:left;width:18px;height:24px;outline:none;cursor:default; background-position:-190px -116px;}
+.itemChoose ul.show{display:block;}
+.itemChoose h3 .secondA{display:inline-block; width:153px; height:25px; padding-left:12px; line-height:25px; border:1px solid #EBEBEB;}
+.itemChoose .viewBy{padding:8px 0 0 27px;}
+
+/*右栏*/
+.sideRight{width:763px;border:1px solid #DBDBDB;overflow:hidden;_zoom:1;position:relative;}
+.sideRight h2.title{background:url(../images/titlebg-detail.gif) repeat-x;height:30px;line-height:31px;padding-left:10px;font-size:12px;color:#333;}
+
+/*产品推荐右栏*/
+.proRecommend{margin:10px 10px 10px 12px;overflow:hidden;_margin:10px 0;_zoom:1;}
+.proRecommendSmall li{float:left;width:160px;margin:10px 12px;}
+.proRecommendBig li{float:left;width:200px;margin:10px 23px;_margin:10px 20px;}
+.proRecommend li h3.proTitle{font-size:12px;height:40px;line-height:20px;overflow:hidden;font-weight:normal;margin:5px 0;}
+.proRecommend li .price .specialPrice{color:#c00;font-weight:bold;margin-right:10px;}
+.proRecommend li .price .normalPrice{color:#999;text-decoration:line-through;}
+.proRecommendSmall li a.inshop_pro_img{width:160px;height:160px;display:block;}
+.proRecommendBig li a.inshop_pro_img{width:200px;height:200px;display:block;}
+
+/*添加模块*/
+.addMoudle{background-color:#0C66A4;color:white;cursor:pointer;border:1px solid #D8D8D8;height:30px;line-height:30px;text-align:center;font-weight:bold;}
+.moudleLimit{background-color:#ccc;border:1px solid #999;color:#666;cursor:not-allowed;}
+
+/*店内团-S-xudan-2013-04-19*/
+.inshop_detail_tuangou .special_price .buybtn{background:url(../images/Spirit-detail.png) no-repeat;}
+.inshop_detail_tuangou dl{width:160px;margin:10px 11px;padding:0 10px 10px;border-bottom:1px solid #f3f3f3;}
+.inshop_detail_tuangou .pci{width:160px;height:160px;}
+.inshop_detail_tuangou .special_price{height:48px;border:1px solid #A50000;background:url(../images/pricebg.gif) repeat-x;line-height:48px;}
+.inshop_detail_tuangou .special_price strong{float:left;padding-left:5px;color:#fff;font-size:20px;font-weight:normal;}
+.inshop_detail_tuangou .special_price strong em{padding-right:2px;font-size:16px;}
+.inshop_detail_tuangou .special_price .buybtn{float:right;width:65px;height:20px;margin:14px 5px 0 0;overflow:hidden;background-position:0 -228px;text-indent:-9999px;}
+.inshop_detail_tuangou .normal_price{width:140px;height:27px;padding:0 10px;overflow:hidden;background-color:#FFFFDD;line-height:27px;}
+/*店内团-E-xudan-2013-04-19*/
+
+/*2012-9-25 收藏到店铺 弹窗*/
+.inshop_collect{;position:absolute;width:478px;z-index:1000;}
+.inshop_collect .collect_white{background:url(../../front-new/images/aptabbg2.jpg) repeat-y;}
+.inshop_collect .collect_header_white{background:url(../../front-new/images/aptab_header2.jpg) no-repeat;color:#FFFFFF;height:26px;line-height:26px;padding-top:5px;}
+.inshop_collect .collect_header_white .popwin_Close{float:right;padding-right:10px;color:#fff;}
+.inshop_collect .collect_center_inshop{width:448px;padding:15px;background:url(../../front-new/images/aptab_footerbg.jpg) no-repeat 0px bottom;}
+.inshop_collect .collect_center_note{font-size:14px;}
+.inshop_collect .collectbtn{background:url(../../front-new/images/inshopSprite.png) no-repeat right -771px;border:0;color:#FFF;cursor:pointer;font-family:"宋体","微软雅黑";font-size:14px;font-weight:bold;height:26px;line-height:26px;width:110px;}
+.inshop_collect .collect_action{padding-top:10px;text-align:center;}=======
+.moudleLimit{background-color:#ccc;border:1px solid #999;color:#666;cursor:not-allowed;}

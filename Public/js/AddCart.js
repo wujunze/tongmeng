@@ -1,0 +1,1 @@
+AYQCore.instances[2].callbacks[0]({"code":0,"msg":"成功"})

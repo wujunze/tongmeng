@@ -1,0 +1,2355 @@
+[ 2015-07-12T04:17:38+08:00 ] 127.0.0.1 /tongmeng/index.php/index/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T04:17:40+08:00 ] 127.0.0.1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:15:30+08:00 ] 127.0.0.1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:15:51+08:00 ] 127.0.0.1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:17:16+08:00 ] 127.0.0.1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:18:13+08:00 ] 127.0.0.1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T05:19:21+08:00 ] 127.0.0.1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\tongmeng\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect():  D:\wamp\www\tongmeng\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+ERR: Acc�s refus� pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON)
+
+[ 2015-07-12T05:19:48+08:00 ] 127.0.0.1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:30:10+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:30:10+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T05:30:10+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T05:30:10+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T05:33:46+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:33:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T05:33:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T05:33:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T05:40:28+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T05:43:44+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:43:46+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T05:43:46+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:43:46+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:43:47+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:43:47+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:43:47+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T05:43:47+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:43:58+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:43:58+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T05:43:59+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T05:43:59+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:44:19+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T05:44:19+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:44:20+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:44:55+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:45:38+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T05:47:39+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:50:55+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:55:31+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:56:01+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:56:03+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:56:09+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:56:31+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:56:33+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T05:57:01+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T06:00:16+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T06:00:16+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T06:01:42+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T18:06:19+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T18:06:20+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T18:06:32+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T18:06:34+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T18:06:54+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T18:57:58+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T19:01:51+08:00 ] 127.0.0.1 /tongmeng/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T19:01:52+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T19:01:52+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T19:01:52+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T19:01:56+08:00 ] 127.0.0.1 /tongmeng/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T19:05:45+08:00 ] 127.0.0.1 /tongmeng/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T19:05:46+08:00 ] 127.0.0.1 /tongmeng/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T19:05:50+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T19:06:21+08:00 ] 127.0.0.1 /tongmeng/index.php/reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T19:06:27+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T19:06:29+08:00 ] 127.0.0.1 /tongmeng/index.php/Logins
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Logins
+
+[ 2015-07-12T19:06:31+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T19:07:26+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./App/Home/View/Login/index.html
+
+[ 2015-07-12T19:07:49+08:00 ] 127.0.0.1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:07:51+08:00 ] 127.0.0.1 /tongmeng/index.php/Login/logins
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:logins
+
+[ 2015-07-12T19:08:02+08:00 ] 127.0.0.1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:08:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:login
+
+[ 2015-07-12T19:08:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:09:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:09:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:09:01+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:09:01+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:09:01+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:09:01+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T19:09:02+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T20:22:00+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 模板不存在:./App/Home/View/Reg/index.html
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_slider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023001s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_flex.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.032002s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:22:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:22:42+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:22:42+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:22:42+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:22:42+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:22:42+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:22:42+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_slider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_flex.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:25:39+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T20:26:32+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:26:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:27:07+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:27:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:27:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/utils.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:27:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:28:40+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:28:40+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:28:40+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:09+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T20:29:09+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:10+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:12+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:29:12+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:12+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.085004s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:13+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:29:13+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:13+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:15+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:29:15+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:15+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:38+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:29:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:29:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:30:06+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:30:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:30:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:30:25+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:30:57+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:32:17+08:00 ] 127.0.0.1 /tongmeng/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:32:18+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:32:18+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:32:22+08:00 ] 127.0.0.1 /tongmeng/index.php/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Lists
+
+[ 2015-07-12T20:32:26+08:00 ] 127.0.0.1 /tongmeng/index.php/lists/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Lists
+
+[ 2015-07-12T20:40:43+08:00 ] 127.0.0.1 /tongmeng/index.php/lists/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./App/Home/View/Lists/list.html
+
+[ 2015-07-12T20:41:05+08:00 ] 127.0.0.1 /tongmeng/index.php/lists/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:41:05+08:00 ] 127.0.0.1 /tongmeng/index.php/lists/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Js
+
+[ 2015-07-12T20:41:05+08:00 ] 127.0.0.1 /tongmeng/index.php/lists/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Js
+
+[ 2015-07-12T20:41:36+08:00 ] 127.0.0.1 /tongmeng/index.php/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:41:54+08:00 ] 127.0.0.1 /tongmeng/index.php/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:41:54+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:41:54+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:42:08+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:42:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:42:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:45:27+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T20:45:27+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:45:27+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:45:29+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T20:45:34+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:45:34+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:45:34+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:45:35+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:45:35+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:45:35+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:46:00+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T20:46:18+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-12T20:46:21+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:46:22+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:46:25+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: Think\Model:fine方法不存在！
+
+[ 2015-07-12T20:46:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:Login
+
+[ 2015-07-12T20:46:36+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T20:46:36+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:46:36+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:48:29+08:00 ] 127.0.0.1 /tongmeng/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 模板不存在:./App/Home/View/Login/login.html
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020001s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_slider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Css/m_flex.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015001s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:48:44+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T20:49:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:43+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:49+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-07-12T21:06:49+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:06:49+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:10:48+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T21:10:49+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:10:50+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:10:50+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:10:51+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034002s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:10:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:02+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:11:02+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:02+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:04+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:11:04+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:04+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:04+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-12T21:11:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:11:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:13:37+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T21:13:37+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:13:37+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:15:13+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:19:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T21:19:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:19:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:23:01+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:23:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:23:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:23:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:23:25+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T21:23:52+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:23:52+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:23:52+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:32:54+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:33:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:33:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:33:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:33:08+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:45:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:46+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:46+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:46+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:46+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:45:48+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:46:21+08:00 ] 127.0.0.1 /tongmeng/index.php/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:46:21+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:46:21+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:46:25+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:46:25+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:46:25+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:38+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.049002s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:47:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:48:50+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.8.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.focus.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:45+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery-1.5.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:47+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T21:49:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:49:47+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:50:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:50:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:50:41+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:51:05+08:00 ] 127.0.0.1 /tongmeng/index.php/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:51:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:51:05+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:52:06+08:00 ] 127.0.0.1 /tongmeng/index.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:52:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:52:07+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:52:12+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T21:54:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T21:54:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:54:00+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T21:57:10+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T22:01:24+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T22:01:24+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T22:01:24+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T22:01:37+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T22:02:16+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法数据对象！:[email=>admin@qq.com]
+
+[ 2015-07-12T22:06:33+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-07-12T22:12:11+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T22:16:06+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法数据对象！:[email=>admin@qq.com]
+
+[ 2015-07-12T22:16:15+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 非法数据对象！:[email=>admin@qq.com]
+
+[ 2015-07-12T22:16:34+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法数据对象！:[email=>]
+
+[ 2015-07-12T22:16:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T22:16:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T22:16:53+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T22:17:04+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法数据对象！:[rpassword=>]
+
+[ 2015-07-12T22:17:15+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法数据对象！:[rpassword=>]
+
+[ 2015-07-12T23:19:48+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:19:55+08:00 ] 127.0.0.1 /tongmeng/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./App/Home/View/View/index.html
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/v.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/m_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/m_base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/n_detail.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/hm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018001s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/mzp-packed-mi.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/MagicZoom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/cart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/script.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/logger.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/bdsstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/transport_ec.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/jquery-migrate-1.1.0.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/bds_s_v2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/jquery.hoverdelay.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/jquery-1.7.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/jquery.scrollLoading.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/staticButtonStatic.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:27+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/staticButton.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018001s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:20:28+08:00 ] 127.0.0.1 /tongmeng/index.php/%E9%A3%8E%E7%81%AB%E8%BD%AEhot%20wheels%E5%8A%A0%E9%95%BF%E7%89%88%E5%8F%8C%E8%BD%A8%E7%AB%9E%E9%80%9F%E8%B5%9B%E9%81%93%E8%BD%A8%E9%81%93%E7%A4%BC%E7%9B%92%E5%A5%97%E8%A3%85CBY76_%E5%BC%80%E6%A3%AE%E5%95%86%E5%9F%8E_files/SurferServer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:风火轮hot wheels加长版双轨竞速赛道轨道礼盒套装CBY76_开森商城_files
+
+[ 2015-07-12T23:23:29+08:00 ] 127.0.0.1 /tongmeng/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:23:29+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:23:29+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:36:32+08:00 ] 127.0.0.1 /tongmeng/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:36:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:36:32+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:38:36+08:00 ] 127.0.0.1 /tongmeng/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-07-12T23:38:37+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:38:37+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:41:21+08:00 ] 127.0.0.1 /tongmeng/index.php/view
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:41:22+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:41:22+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:41:29+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:47:06+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:47:15+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:47:38+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-07-12T23:48:05+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:48:32+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:48:34+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:48:42+08:00 ] 127.0.0.1 /tongmeng/index.php/Reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:48:43+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/jquery.flexslider-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:48:43+08:00 ] 127.0.0.1 /tongmeng/index.php/Js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Js
+
+[ 2015-07-12T23:49:01+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:49:25+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:49:31+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:50:11+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:51:07+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:52:08+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-07-12T23:59:57+08:00 ] 127.0.0.1 /tongmeng/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
